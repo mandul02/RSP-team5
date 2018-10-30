@@ -1,0 +1,79 @@
+ @charset "utf-8";
+/* CSS Document */
+/* Autor: Team5 */
+/* Copyright @2018 */
+
+@font-face {
+	font-family: MyriadCond;
+	src: url(../font/MyriadProCond.otf);
+}
+@font-face {
+	font-family: MyriadCondBold;
+	src: url(../font/MyriadProBoldCond.otf);
+}
+a:link, a:visited {
+	color: #000;
+	text-decoration: none;
+}
+html {
+    height: 100%;
+}
+body {
+	font-family: MyriadCond;
+	background-color:#777 !important;
+}
+
+.celek {
+	margin: 0px auto;
+	margin-top: 10px;
+	background-image: url(../img/index.png);
+	width: 1024px;
+	height: 768px;
+}
+.celekkopie {
+	margin: 0px auto;
+	margin-top: 10px;
+	background-image: url(../img/prihlaseniregistracepozadi.png);
+	width: 1024px;
+	height: 768px;
+}
+.menu {
+	margin: 0px, auto;
+	font-size: 38pt;
+}
+.casopisybutton {
+	float: left;
+	margin-left: 42px;
+	margin-top: 14px;
+}
+.registracebutton {
+	float: right;
+	margin-right: 42px;
+	margin-top: 14px;
+}
+.prihlasenibutton {
+	float: right;
+	margin-right: 42px;
+	margin-top: 14px;
+}
+a:hover { 
+    color: #ED1C24;
+}
+.text
+{
+	height:auto;
+	width:940px;
+	font-size:16pt;
+	float:left;
+	margin-top:50px;
+	margin-left:42px;
+}
+.akce
+{
+	height:auto;
+	width:940px;
+	font-size: 38pt;
+	float:left;
+	margin-top:55px;
+	margin-left:342px;
+}
