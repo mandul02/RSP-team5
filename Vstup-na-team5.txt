@@ -1,0 +1,11 @@
+AdministratorFi
+administrator
+
+OponentFinal
+oponent
+
+RedaktorFinal
+redaktor
+
+UzivatelFinal
+uzivatel
